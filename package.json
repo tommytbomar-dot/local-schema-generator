@@ -1,0 +1,7 @@
+{
+  "name": "local-schema-generator",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": { "test": "node --test test/" },
+  "author": "Tommy Bomar / Spiel Ventures <tommytbomar@gmail.com>"
+}
