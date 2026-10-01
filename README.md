@@ -5,4 +5,4 @@ Static, client-side generator for LocalBusiness JSON-LD (MIT). Open `index.html`
 - `schema.js` — UMD core (browser + node), `node --test test`
 - Nothing is uploaded; there is no backend.
 
-Validate output with Google's Rich Results Test. Schema does not guarantee rankings. See [SUPPORT.md](SUPPORT.md) for the $97 support session. License: MIT.
+Validate output with Google's Rich Results Test. Schema does not guarantee rankings. See [SUPPORT.md](SUPPORT.md) for the $125 support session. License: MIT.
